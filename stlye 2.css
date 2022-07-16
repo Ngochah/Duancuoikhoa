@@ -1,0 +1,60 @@
+
+html{
+    background-color: rgb(255, 200, 230);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:larger;
+    margin:0px 0px 0px 0px;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+
+.aa {
+    background-color: rgb(241, 135, 201);
+    margin: 0 0 0px 0;
+    padding: 12px 30px;
+    text-align: start;
+    color: rgb(130, 35, 105);
+    font-size: larger;
+}
+.aa a{
+    margin-right: 10px;
+}
+div{
+    padding: 20px 30px 40px 30px;
+    text-align:center
+}
+p{
+    color:black;
+    padding: 0px 10px 30px 10px;
+    background-color:rgb(255, 220, 242);
+    text-align: start;
+
+}
+h3{
+    color: rgb(202, 75, 136);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    background-color: antiquewhite;
+    margin: 30px 10px 30px 10px ;
+}
+.img{
+    width: 80%;
+    height: 80%;
+    padding: auto;
+  justify-content: center;
+    
+}
+.IbisPaint{
+    padding-top: 0% ;
+}
+.footer{
+    background-color: rgb(213, 124, 176);
+    color: rgb(255, 230, 244);
+    font-style:italic;
+    font-family: Typewriter;
+    padding: 50px 0 50px 0 ;
+    font-size: 30px;
+}
